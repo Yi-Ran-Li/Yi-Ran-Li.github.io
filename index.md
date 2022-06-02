@@ -15,16 +15,15 @@ School of Management, Zhejiang University of Technology, China
 
 Email: yiran_li94@sina.com 
 
-I am a 2st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Dr. <a href="http://web.science.mq.edu.au/~jiawu/">Jia Wu</a> and my associate supervisor is Prof. <a href="http://web.science.mq.edu.au/~jian/">Jian Yang</a>. My research mainly focus on scientometrics and data mining.
+Dr. Yiran Li is a visiting fellow of computer science at the School of Computing, Macquarie University and lecturer of business administration at the School of Management, Zhejiang University of Technology. She obtained her BS in Computer Science and Technology from Minzu University of China, China; her MS in Advanced Computer Science and Information Technology Management from The University of Manchester, UK and her PhD in electronic commerce from Wuhan University, China. Her main research areas are online user behavior, data mining and business intelligence, electronic commerce and information systems. Her publications have appeared in Behaviour and Information Technology, Library and Information Science Research, Electronic Commerce Research, Journal of Global Information Management and some international conferences.
 
 ## <font color=deepskyblue> Education Background</font>
 
 | Year | Degree | Major | University |
 | ----- | ------ | ------- | -------- |
-| 2021.7 - Now | PhD student | Computer Science | Macquarie University |
-| 2019.9 - Now | PhD student | Information Science | Wuhan University |
-| 2017.9 - 2019.7 | Master | Library and Information Science | Wuhan University |
-| 2013.9 - 2017.7 | Bachelor | Business Management | Taiyuan University of Technology |
+| 2011.9 - 2015.7 | Bachelor | Computer Science and Technology | Minzu University of China |
+| 2015.9 - 2016.12 | Master | Advanced Computer Science and Information Technology Management | The University of Manchester |
+| 2017.9 - 2020.12 | Doctor | Electronic Commerce | Wuhan University |
 
 
 ## <font color=red> My Publications</font>
