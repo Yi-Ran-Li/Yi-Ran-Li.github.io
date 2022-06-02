@@ -3,7 +3,7 @@
  * @Date: 2022-06-01 23:18:09
  * @LastEditors: Yiran Li
  * @LastEditTime: 2022-06-02 13:19:52
- * @FilePath: /zhuozhuliu.github.io/index.md
+ * @FilePath: /Yi-Ran-Li.github.io/index.md
 -->
 
 ## Dr. Yiran Li (李一然)
@@ -79,15 +79,3 @@ Dr. Yiran Li is a visiting fellow of computer science at the School of Computing
 [22] Zhang L, Guo D, Wen X, **Li Y**, Zhao Y. Individual differences in the processing of votes regarding review helpfulness[C]. CNAIS 2019. (Conference) <cr>
 
 [23] Liu Z, Zhao R, Wang J, Hu Y, **Li Y**. Theoretical research and improvement of knowledge conversion[C]. IVPAI 2021. (EI conference) <cr>
-
-
-
-[1] **Liu, Z.**, Li, Y., Zhang, Z., & Zhao, R, “The Impact of Business Strategic Orientation on Innovation-Driven Mergers and Acquisitions: An Empirical Study”, Discrete Dynamics in Nature and Society, 2021. <cr>
-
-
-[2] Zhao, R., Wang, X., **Liu, Z.***, Qi, Y., Zhang, Z., & Chang, R, “Research on the impact evaluation of academic journals based on altmetrics and citation indicators”, Proceedings of the Association for Information Science and Technology, 2019. <cr>
- 
-[3] Zhao, R.,  **Liu, Z.***, Zhang, X., Wang, J., & Zhang, Z, “Mapping World Scientific Collaboration on the Research of COVID-19: Authors, Journals, Institutions, and Countries”,  Hawaii International Conference on System Sciences, 2021. <cr>
-     
-[4] **Liu, Z.**, Chen, S., & Han, Q, “Informetric analysis of researches on application of artificial intelligence in COVID-19 prevention and control”,  In 2021 International Conference on Image, Video Processing, and Artificial Intelligence, 2021. <cr>
-
