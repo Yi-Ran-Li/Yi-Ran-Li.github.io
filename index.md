@@ -46,8 +46,6 @@ Teaching Marketing course for Undergraduate.
   
 [4] National Natural Science Foundation of China (Grant number 71874126), 2019.01 - 2022.12, 500000, Participant. <cr>
 
-Teaching Marketing course for Undergraduate.
-
 ## <font color=red> My Publications</font>
 
 [1] **Li Y**, Zhang L, Shiau W.-L, Xu L, Liu Q. Psychophysiological responses to mobile reading: evidence from frontal EEG signals under a distracting reading environment and different text genres[J]. Information Technology & People, 2022. (SSCI, 2020 IF= 3.879 ABS 3 * INFORMATION SCIENCE & LIBRARY SCIENCE Q1, 23/164.) <cr>
@@ -95,3 +93,7 @@ Teaching Marketing course for Undergraduate.
 [22] Zhang L, Guo D, Wen X, **Li Y**, Zhao Y. Individual differences in the processing of votes regarding review helpfulness[C]. CNAIS 2019. (Conference) <cr>
 
 [23] Liu Z, Zhao R, Wang J, Hu Y, **Li Y**. Theoretical research and improvement of knowledge conversion[C]. IVPAI 2021. (EI conference) <cr>
+
+## <font color=red> Achievements and Awards</font>
+
+Won the second prize of Annual Meeting of Chinese Archival Society (2021), the second prize of Academic Innovation of Wuhan University (2020) and the Best paper of International Conference on Electronic Business (2019).
