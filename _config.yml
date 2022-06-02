@@ -2,10 +2,10 @@ theme: jekyll-theme-minimal
 
 gem "github-pages", group: :jekyll_plugins
 
-title: Zhuozhu Liu's Homepage
+title: Yiran Li's Homepage
 
-description: Welcome to my personal homepage!
+description: Welcome to My personal homepage!
 
-logo: liu.png
+logo: YR.jpg
 
 show_downloads: false
