@@ -1,19 +1,19 @@
 <!--
- * @Author: Zhuozhu Liu zhuozhu.liu@hdr.mq.edu
+ * @Author: yiran_li94@sina.com
  * @Date: 2022-06-01 23:18:09
- * @LastEditors: Zhuozhu Liu
+ * @LastEditors: Yiran Li
  * @LastEditTime: 2022-06-02 13:19:52
  * @FilePath: /zhuozhuliu.github.io/index.md
 -->
 
-## Zhuozhu Liu
-### Ph.D. Candidate at Wuhan University and Macquarie University
+## Dr. Yiran Li (李一然)
+### Visiting Fellow at Macquarie University & Lecturer at Zhejiang University of Technology
 
-School of Computing, Macquarie University
+School of Computing, Macquarie University, Australia
 
-School of Information Management, Wuhan University
+School of Management, Zhejiang University of Technology, China
 
-Email: zhuozhu.liu@hdr.mq.edu or liuzhuozhu@whu.edu.cn 
+Email: yiran_li94@sina.com 
 
 I am a 2st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Dr. <a href="http://web.science.mq.edu.au/~jiawu/">Jia Wu</a> and my associate supervisor is Prof. <a href="http://web.science.mq.edu.au/~jian/">Jian Yang</a>. My research mainly focus on scientometrics and data mining.
 
