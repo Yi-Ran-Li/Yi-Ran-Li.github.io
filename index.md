@@ -32,6 +32,22 @@ Dr. Yiran Li is a visiting fellow of computer science at the School of Computing
 | 2022.03 - 2023.03 | Macquarie University | Computer Science | Visiting Fellow |
 | 2021.01 - Now | Zhejiang University of Technology | Business Administration | Lecturer |
 
+## <font color=red> Teaching Experience</font>
+
+Teaching Marketing course for Undergraduate.
+
+## <font color=red> Research Projects</font>
+
+[1] Zhejiang Philosophy and Social Science Planning Project (Grant number 22NDQN209YB), 2022.01 - 2024.09, 50000, Leader. <cr>
+  
+[2] Social Science Research Project of Zhejiang University of Technology (Grant number GZ21741320056), 2021.09 - 2023.09, 8000, Leader. <cr>
+  
+[3] Research Foundation of Zhejiang University of Technology (Grant number 2021132001529), 2021.01 - 2024.12, 50000, Leader. <cr>
+  
+[4] National Natural Science Foundation of China (Grant number 71874126), 2019.01 - 2022.12, 500000, Participant. <cr>
+
+Teaching Marketing course for Undergraduate.
+
 ## <font color=red> My Publications</font>
 
 [1] **Li Y**, Zhang L, Shiau W.-L, Xu L, Liu Q. Psychophysiological responses to mobile reading: evidence from frontal EEG signals under a distracting reading environment and different text genres[J]. Information Technology & People, 2022. (SSCI, 2020 IF= 3.879 ABS 3 * INFORMATION SCIENCE & LIBRARY SCIENCE Q1, 23/164.) <cr>
