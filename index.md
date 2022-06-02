@@ -21,17 +21,16 @@ Dr. Yiran Li is a visiting fellow of computer science at the School of Computing
 
 | Year | Degree | Major | University |
 | ----- | ------ | ------- | -------- |
-| 2011.9 - 2015.7 | Bachelor | Computer Science and Technology | Minzu University of China |
-| 2015.9 - 2016.12 | Master | Advanced Computer Science and Information Technology Management | The University of Manchester |
-| 2017.9 - 2020.12 | Doctor | Electronic Commerce | Wuhan University |
+| 2011.09 - 2015.07 | Bachelor | Computer Science and Technology | Minzu University of China |
+| 2015.09 - 2016.12 | Master | Advanced Computer Science and Information Technology Management | The University of Manchester |
+| 2017.09 - 2020.12 | Doctor | Electronic Commerce | Wuhan University |
 
-## <font color=babyblue> Education Background</font>
+## <font color=steelblue> Work Experience</font>
 
-| Year | Degree | Major | University |
+| Year | Organization | Major | Role |
 | ----- | ------ | ------- | -------- |
-| 2011.9 - 2015.7 | Bachelor | Computer Science and Technology | Minzu University of China |
-| 2015.9 - 2016.12 | Master | Advanced Computer Science and Information Technology Management | The University of Manchester |
-| 2017.9 - 2020.12 | Doctor | Electronic Commerce | Wuhan University |
+| 2022.03 - 2023.03 | Macquarie University | Computer Science | Visiting Fellow |
+| 2021.01 - Now | Zhejiang University of Technology | Business Administration | Lecturer |
 
 ## <font color=red> My Publications</font>
 
